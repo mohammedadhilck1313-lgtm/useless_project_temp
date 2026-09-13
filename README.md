@@ -2,31 +2,30 @@
 
 
 
-# [Project Name] 🎯
+# [SKIBIDI GPT] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Astatine]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Amina as] - [AAEC]
+- Member 2: [Adhil ck] - [AAEC]
 
 ### Project Description
-[2-3 lines about what your project does]
+[its a chat gpt who know nothing]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[chat gpt knows everything?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[this gpt knows noyhing!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,java]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
